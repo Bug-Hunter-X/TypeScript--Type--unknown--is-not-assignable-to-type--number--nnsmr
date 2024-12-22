@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: assigning an 'unknown' type to a 'number' type without type checking. The bug.ts file shows the error, while bugSolution.ts provides a solution using type guards.
